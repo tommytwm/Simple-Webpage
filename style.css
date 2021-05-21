@@ -15,7 +15,7 @@ body {
     background: linear-gradient(#D0ECE788 2%, white 90%);
 }
 
-.header h2, .header p {
+.header h1, .header p {
 	text-align: center;
 	width: 50%;
 	margin-left: auto;
